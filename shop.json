@@ -1,0 +1,2738 @@
+{
+  "refreshIntervalHrs": 1,
+  "dailyPurchaseHrs": 24,
+  "expiration": "9999-12-31T23:59:59.999Z",
+  "storefronts": [
+    {
+      "name": "BRStandaloneStorefront",
+      "catalogEntries": []
+    },
+    {
+      "name": "CurrencyStorefront",
+      "catalogEntries": [
+        {
+          "offerId": "425FDD804D9D61AC2530CE8F31398BCD",
+          "devName": "Large Currency Pack",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "RealMoney",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "dynamicRegularPrice": -1,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 0
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "3b4c5df9efa5415b941cf74262865e4e",
+            "ios_vbucks_large",
+            "",
+            "google_vbucks_large",
+            "",
+            "MTX08K0000000000",
+            "d299e00d-811e-4b57-85c1-ec06cbc40074",
+            "c-virtualcurrency0-MTX7500",
+            "sam_vbucks_large",
+            "BP2FKJFQ14TJ",
+            "MTX08K0000000000"
+          ],
+          "requirements": [],
+          "metaInfo": [
+            {
+              "key": "MtxQuantity",
+              "value": "7800"
+            },
+            {
+              "key": "MtxBonus",
+              "value": "0"
+            },
+            {
+              "key": "IconSize",
+              "value": "Large"
+            },
+            {
+              "Key": "CurrencyAnalyticsName",
+              "Value": "MtxPack7800"
+            }
+          ],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 3,
+          "title": "7,800 V-Bucks",
+          "shortDescription": "",
+          "description": "Buy 7,800 Fortnite V-Bucks that can be spent in Battle Royale, Creative, and Save the World modes. Note: Not all items purchased may be available in Save the World mode.",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_MtxPack7800.DA_MtxPack7800",
+          "itemGrants": []
+        },
+        {
+          "offerId": "A094F1D14BAE8DA77114DAAE76AFCA83",
+          "devName": "Medium Currency Pack",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "RealMoney",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "dynamicRegularPrice": -1,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 0
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "559f2ba95f874ec987d0ebfd2cc9c70a",
+            "ios_vbucks_medium",
+            "",
+            "google_vbucks_medium",
+            "",
+            "MTX03K0000000000",
+            "cee19aa0-5238-4656-9e52-c8bd0765eb53",
+            "c-virtualcurrency0-MTX2800",
+            "sam_vbucks_medium",
+            "C4BPBTQG5C1B",
+            "MTX03K0000000000"
+          ],
+          "requirements": [],
+          "metaInfo": [
+            {
+              "key": "MtxQuantity",
+              "value": "2800"
+            },
+            {
+              "key": "MtxBonus",
+              "value": "0"
+            },
+            {
+              "key": "IconSize",
+              "value": "Small"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "12PercentExtra"
+            },
+            {
+              "Key": "CurrencyAnalyticsName",
+              "Value": "MtxPack2800"
+            }
+          ],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 5,
+          "title": "2,800 V-Bucks",
+          "shortDescription": "",
+          "description": "Buy 2,800 Fortnite V-Bucks that can be spent in Battle Royale, Creative, and Save the World modes. Note: Not all items purchased may be available in Save the World mode.",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_MtxPack2800.DA_MtxPack2800",
+          "itemGrants": []
+        },
+        {
+          "offerId": "50DC69A74BC4B8D10AF8D5B17A4BF8D4",
+          "devName": "Jumbo Currency Pack",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "RealMoney",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "dynamicRegularPrice": -1,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 0
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "4daadb392f1c4ee2b5a3af443e614d2a",
+            "ios_vbucks_jumbo",
+            "",
+            "google_vbucks_jumbo",
+            "",
+            "MTX14K0000000000",
+            "d15248c0-acf6-48b7-9632-c9638cba4b37",
+            "c-virtualcurrency0-MTX13500",
+            "sam_vbucks_jumbo",
+            "BWD299HXCXQK",
+            "MTX14K0000000000"
+          ],
+          "requirements": [],
+          "metaInfo": [
+            {
+              "key": "MtxQuantity",
+              "value": "13500"
+            },
+            {
+              "key": "MtxBonus",
+              "value": "0"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "35PercentExtra"
+            },
+            {
+              "key": "IconSize",
+              "value": "XLarge"
+            },
+            {
+              "Key": "CurrencyAnalyticsName",
+              "Value": "MtxPack13500"
+            }
+          ],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 2,
+          "title": "13,500 V-Bucks",
+          "shortDescription": "",
+          "description": "Buy 13,500 Fortnite V-Bucks that can be spent in Battle Royale, Creative, and Save the World modes. Note: Not all items purchased may be available in Save the World mode.",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_MtxPack13500.DA_MtxPack13500",
+          "itemGrants": []
+        },
+        {
+          "offerId": "12C02A514B8718EB48EB4C9171715891",
+          "devName": "Small Currency Pack",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "RealMoney",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "dynamicRegularPrice": -1,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 0
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "ede05b3c97e9475a8d9be91da65750f0",
+            "ios_vbucks_small",
+            "",
+            "google_vbucks_small",
+            "",
+            "MTX01K0000000000",
+            "6caed040-72dc-499a-9337-a165f1ec0a26",
+            "c-virtualcurrency0-MTX1000",
+            "sam_vbucks_small",
+            "C0F5HT9NV86P",
+            "MTX01K0000000000"
+          ],
+          "requirements": [],
+          "metaInfo": [
+            {
+              "key": "MtxQuantity",
+              "value": "1000"
+            },
+            {
+              "key": "MtxBonus",
+              "value": "0"
+            },
+            {
+              "key": "IconSize",
+              "value": "XSmall"
+            },
+            {
+              "Key": "CurrencyAnalyticsName",
+              "Value": "MtxPack1000"
+            }
+          ],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 6,
+          "title": "1,000 V-Bucks",
+          "shortDescription": "",
+          "description": "Buy 1,000 Fortnite V-Bucks that can be spent in Battle Royale, Creative, and Save the World modes. Note: Not all items purchased may be available in Save the World mode.",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_MtxPack1000.DA_MtxPack1000",
+          "itemGrants": []
+        },
+        {
+          "offerId": "9484CF2E4C79CBACE1F94D908C51C792",
+          "devName": "Intermediate Currency Pack",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "RealMoney",
+              "currencySubType": "",
+              "regularPrice": 0,
+              "dynamicRegularPrice": -1,
+              "finalPrice": 0,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 0
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "d900ad5da7ec4eac86918bcfa0c3e698",
+            "ios_vbucks_mediumplus",
+            "",
+            "google_vbucks_mediumplus",
+            "",
+            "MTX05K0000000000",
+            "1f5d0b24-49e8-43b3-9547-3e4743c21823",
+            "c-virtualcurrency0-MTX5000",
+            "sam_vbucks_mediumplus",
+            "C20FM0B4Q9KC",
+            "MTX05K0000000000"
+          ],
+          "requirements": [],
+          "metaInfo": [
+            {
+              "key": "MtxQuantity",
+              "value": "5000"
+            },
+            {
+              "key": "MtxBonus",
+              "value": "0"
+            },
+            {
+              "key": "IconSize",
+              "value": "Medium"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "25PercentExtra"
+            },
+            {
+              "Key": "CurrencyAnalyticsName",
+              "Value": "MtxPack5000"
+            }
+          ],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 4,
+          "title": "5,000 V-Bucks",
+          "shortDescription": "",
+          "description": "Buy 5,000 Fortnite V-Bucks that can be spent in Battle Royale, Creative, and Save the World modes. Note: Not all items purchased may be available in Save the World mode.",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_MtxPack5000.DA_MtxPack5000",
+          "itemGrants": []
+        }
+      ]
+    },
+    {
+      "name": "WinterQuest2019",
+      "catalogEntries": [
+        {
+          "offerId": "01C3D16646CC1C135814EFBC62FD83D1",
+          "devName": "WinterQuest2019",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 2500,
+              "dynamicRegularPrice": -1,
+              "finalPrice": 2500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 2500
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "RewardEventGraphPurchaseToken:winterfestpurchasetoken",
+              "minQuantity": 1
+            }
+          ],
+          "metaInfo": [],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 0,
+          "title": "Winterfest!",
+          "shortDescription": "",
+          "description": "",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_WinterQuest2019.DA_WinterQuest2019",
+          "itemGrants": [
+            {
+              "templateId": "RewardEventGraphPurchaseToken:winterfestpurchasetoken",
+              "quantity": 1
+            }
+          ],
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "GiftableItems",
+      "catalogEntries": [
+        {
+          "offerId": "722DD1CF407A49449734D9B9A8033295",
+          "devName": "Glow Grant",
+          "offerType": "StaticPrice",
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "Token:giftglowtoken",
+              "regularPrice": 1,
+              "dynamicRegularPrice": -1,
+              "finalPrice": 1,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1
+            }
+          ],
+          "categories": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "refundable": false,
+          "appStoreId": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "requirements": [
+            {
+              "requirementType": "DenyOnFulfillment",
+              "requiredId": "BD04D08047CBD5B284C544A33619C860",
+              "minQuantity": 1
+            }
+          ],
+          "metaInfo": [
+            {
+              "key": "TokenOffer",
+              "value": "02A0B24240C2528B435EF4817E89070F"
+            },
+            {
+              "key": "bIgnoreGiftLimit",
+              "value": "true"
+            },
+            {
+              "key": "bIgnoreFriendTimeReq",
+              "value": "true"
+            }
+          ],
+          "catalogGroup": "",
+          "catalogGroupPriority": 0,
+          "sortPriority": 0,
+          "title": "Glow",
+          "shortDescription": "",
+          "description": "The aura of victory glows bright.",
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_479_Athena_Commando_F_Davinci.DA_Featured_CID_479_Athena_Commando_F_Davinci",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_479_athena_commando_f_davinci",
+              "quantity": 1
+            }
+          ],
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "BRWeeklyStorefront",
+      "catalogEntries": [
+        {
+          "devName": "[VIRTUAL]1 x Antheia, 1 x Steelfeather Shield for 1500 MtxCurrency",
+          "offerId": "v2:/6ab1aedcb8044914ca311e03d73c3f6f70360ac77ccad9bc0cb36535a155b4cb",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1500,
+              "dynamicRegularPrice": 1500,
+              "finalPrice": 1500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_866_F_Myth.DAv2_CID_866_F_Myth",
+            "SectionId": "Featured",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "2",
+            "BannerOverride": "SelectableStyles"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_866_athena_commando_f_myth",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:bid_613_mythfemale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_866_F_Myth.DAv2_CID_866_F_Myth"
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "2"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "SelectableStyles"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_866_Athena_Commando_F_Myth.DA_Featured_CID_866_Athena_Commando_F_Myth",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_866_athena_commando_f_myth",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_613_mythfemale",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -3,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Rollie for 500 MtxCurrency",
+          "offerId": "v2:/d4d66a9be918a237a91dcb152fdb207afeb284f17b2db46e313ae36c361d0e21",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 3"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "dynamicRegularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_TwistDaytona.DAv2_EID_TwistDaytona",
+            "SectionId": "Featured",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "3",
+            "EncryptionKey": "AFCCB7C08EC6957EEDDAAD676C3D3513:MuovEXob241ie6/RP76ImUk+MExLdl+bszvxCHNtg0U=:EID_TwistDaytona"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaDance:eid_twistdaytona",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_TwistDaytona.DAv2_EID_TwistDaytona"
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "3"
+            },
+            {
+              "key": "EncryptionKey",
+              "value": "AFCCB7C08EC6957EEDDAAD676C3D3513:MuovEXob241ie6/RP76ImUk+MExLdl+bszvxCHNtg0U=:EID_TwistDaytona"
+            }
+          ],
+          "displayAssetPath": "None",
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:eid_twistdaytona",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -8,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Peely Bone for 1500 MtxCurrency",
+          "offerId": "v2:/05e0aceb8d6c7fe2aa1ae6b803c15578c94d5b8cabc6a6115a1e079409f7ed93",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 1"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1500,
+              "dynamicRegularPrice": 1500,
+              "finalPrice": 1500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_602_M_NanaSplit.DAv2_CID_602_M_NanaSplit",
+            "SectionId": "Featured",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "1",
+            "BannerOverride": "BuiltInEmote"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_602_athena_commando_m_nanasplit",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_602_M_NanaSplit.DAv2_CID_602_M_NanaSplit"
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "1"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "BuiltInEmote"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_602_Athena_Commando_M_NanaSplit.DA_Featured_CID_602_Athena_Commando_M_NanaSplit",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_602_athena_commando_m_nanasplit",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Spooky Team Leader, 1 x Goodie Gourd for 1500 MtxCurrency",
+          "offerId": "v2:/4afef337eb0bde751341d106a5e6a8ba85b02dbad2e0cb2215b9ed1c02f76580",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 1"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1500,
+              "dynamicRegularPrice": 1500,
+              "finalPrice": 1500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_258_F_FuzzyBearHalloween.DAv2_CID_258_F_FuzzyBearHalloween",
+            "SectionId": "Featured",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_258_athena_commando_f_fuzzybearhalloween",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:bid_139_fuzzybearhalloween",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_258_F_FuzzyBearHalloween.DAv2_CID_258_F_FuzzyBearHalloween"
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "1"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_258_Athena_Commando_F_FuzzyBearHalloween.DA_Featured_CID_258_Athena_Commando_F_FuzzyBearHalloween",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_258_athena_commando_f_fuzzybearhalloween",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_139_fuzzybearhalloween",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -2,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Illustrated for 300 MtxCurrency",
+          "offerId": "v2:/76f891e3a2a171388a3799038401bdef04f5800276bf3c59acda71ff936c0572",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 300,
+              "dynamicRegularPrice": 300,
+              "finalPrice": 300,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 300
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Wrap_287_MythToon.DAv2_Wrap_287_MythToon",
+            "SectionId": "Featured",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "2",
+            "BannerOverride": "CollectTheSet"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaItemWrap:wrap_287_mythtoon",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_Wrap_287_MythToon.DAv2_Wrap_287_MythToon"
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "2"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "CollectTheSet"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Wrap_287_MythToon.DA_Featured_Wrap_287_MythToon",
+          "itemGrants": [
+            {
+              "templateId": "AthenaItemWrap:wrap_287_mythtoon",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -7,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Morro, 1 x Vanquisher's Oath, 1 x Destiny's Edge for 1800 MtxCurrency",
+          "offerId": "v2:/70e4b9e08728b06ab25db97c064e904e947dc1e05f5a57ba3d4d1abea6aeafae",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1800,
+              "dynamicRegularPrice": 1800,
+              "finalPrice": 1800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_867_M_Myth.DAv2_CID_867_M_Myth",
+            "SectionId": "Featured",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "2",
+            "BannerOverride": "PickaxeIncluded",
+            "ViolatorTag": "PickaxeIncluded"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_867_athena_commando_m_myth",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaBackpack:bid_614_myth",
+              "minQuantity": 1
+            },
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:pickaxe_id_470_mythmale1h",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_867_M_Myth.DAv2_CID_867_M_Myth"
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "2"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "PickaxeIncluded"
+            },
+            {
+              "key": "ViolatorTag",
+              "value": "PickaxeIncluded"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_867_Athena_Commando_M_Myth.DA_Featured_CID_867_Athena_Commando_M_Myth",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_867_athena_commando_m_myth",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaBackpack:bid_614_myth",
+              "quantity": 1
+            },
+            {
+              "templateId": "AthenaPickaxe:pickaxe_id_470_mythmale1h",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -4,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Hunting Song for 800 MtxCurrency",
+          "offerId": "v2:/179ed81797266de946ad569aae1cb853a3223631c82da0a58a64fa53505d435e",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_469_MythFemale.DAv2_Pickaxe_ID_469_MythFemale",
+            "SectionId": "Featured",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "2",
+            "BannerOverride": "SelectableStyles"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaPickaxe:pickaxe_id_469_mythfemale",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_Pickaxe_ID_469_MythFemale.DAv2_Pickaxe_ID_469_MythFemale"
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "2"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "SelectableStyles"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Pickaxe_ID_469_MythFemale.DA_Featured_Pickaxe_ID_469_MythFemale",
+          "itemGrants": [
+            {
+              "templateId": "AthenaPickaxe:pickaxe_id_469_mythfemale",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -5,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Dawn's Promise for 800 MtxCurrency",
+          "offerId": "v2:/3b5e0fc87b065da0373b92b593d975b3779da5141c7c9553171e2db3015fd3fd",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Glider_243_Myth.DAv2_Glider_243_Myth",
+            "SectionId": "Featured",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "2",
+            "BannerOverride": "SelectableStyles"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaGlider:glider_id_243_myth",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_Glider_243_Myth.DAv2_Glider_243_Myth"
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "2"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "SelectableStyles"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Glider_ID_243_Myth.DA_Featured_Glider_ID_243_Myth",
+          "itemGrants": [
+            {
+              "templateId": "AthenaGlider:glider_id_243_myth",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -6,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Last Forever for 500 MtxCurrency",
+          "offerId": "v2:/bad83f911a9d2e0963e0a8d5d42c1717d709939c9c6b35b19a4c0fbb399aadad",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 4"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "dynamicRegularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_EID_TwistEternity.DAv2_EID_TwistEternity",
+            "SectionId": "Featured",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "4",
+            "BannerOverride": "SyncedEmote"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaDance:eid_twisteternity",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_EID_TwistEternity.DAv2_EID_TwistEternity"
+            },
+            {
+              "key": "SectionId",
+              "value": "Featured"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "4"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "SyncedEmote"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "AthenaDance:eid_twisteternity",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -9,
+          "catalogGroupPriority": 0
+        }
+      ]
+    },
+    {
+      "name": "STWSpecialEventStorefront",
+      "catalogEntries": [
+        {
+          "devName": "[VIRTUAL]1 x Ragnarok for 3200 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/1023f2d8d0984911e2fe3a1fdf23b70a7218189b411bca81a0e493abd5b59677",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 3200,
+              "dynamicRegularPrice": 3200,
+              "finalPrice": 3200,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 3200
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "7ndce3h4llums7ql7f2l5m9k4i[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "7ndce3h4llums7ql7f2l5m9k4i[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Hero:hid_outlander_myth02_sr_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 20,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x JONESEE-BOT for 2800 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/0eaa77ea933a601a1355dfdd4295d43b7d7e0afef1913396992e2225beb7ab1b",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 2800,
+              "dynamicRegularPrice": 2800,
+              "finalPrice": 2800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 2800
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "25pvpsc9rhi6iq2frpmp1ro7c8[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "25pvpsc9rhi6iq2frpmp1ro7c8[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Hero:hid_commando_032_halloweensoldier_sr_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 25,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x workerbasic_sr_t01 for 700 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/222374fc7ea9f6ef8eb0b3c20f3a5d7f64f612e9f3435c74e3d51d785739bf9f",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 700,
+              "dynamicRegularPrice": 700,
+              "finalPrice": 700,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 700
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "14na9k5ou3pqhkn1e0q1qoubpv[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "14na9k5ou3pqhkn1e0q1qoubpv[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Worker:workerbasic_sr_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 12,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Gunblazer Southie for 2800 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/eaf7f2cf03412cb4383d0d8e7d0f0e2650bd4578d2a9ce71eab64c0f629e5804",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 2800,
+              "dynamicRegularPrice": 2800,
+              "finalPrice": 2800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 2800
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "14na9k5ou3pqhkn1e0q1qoubpv[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "14na9k5ou3pqhkn1e0q1qoubpv[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Hero:hid_outlander_011_sr_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 14,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Bloodfinder A.C. for 2800 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/09981689bfa9f1b9c5e039346c061075db3d8db4e12c4d2bdb34fe088c45b06e",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 2800,
+              "dynamicRegularPrice": 2800,
+              "finalPrice": 2800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 2800
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "1d9sf0jm76befm59qmvea0f8kh[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "1d9sf0jm76befm59qmvea0f8kh[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Hero:hid_outlander_zoneharvesthw_sr_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 30,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Copper Space Invader   for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/331492b177065f39da369b7d3414834b6916bc5c974f93ce7dad4d8ace9e18c5",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 1680,
+              "dynamicRegularPrice": 1680,
+              "finalPrice": 1680,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1680
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "14na9k5ou3pqhkn1e0q1qoubpv[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "14na9k5ou3pqhkn1e0q1qoubpv[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_pistol_space_sr_ore_t01",
+              "quantity": 1,
+              "attributes": {
+                "Alteration": {
+                  "LootTierGroup": "AlterationTG.Ranged.Energy.SR",
+                  "Tier": 0
+                }
+              }
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 16,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Rare Schematic for 400 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/570ff3bed6fc8a1f7006610dbb6ce9e4bcd244a32caa435a60392460da356c88",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 400,
+              "dynamicRegularPrice": 400,
+              "finalPrice": 400,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 400
+            }
+          ],
+          "meta": {
+            "open_cardpacks": "true"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "open_cardpacks",
+              "value": "true"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "CardPack:cardpack_schematic_r",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 10,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Raven for 3200 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/915229b852a73004939dcb82d7b29bba9469c3bb96808ebf6f28bc13320175b8",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 3200,
+              "dynamicRegularPrice": 3200,
+              "finalPrice": 3200,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 3200
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "7bt1dq0dg60g74e7kfjbhvkegt[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "7bt1dq0dg60g74e7kfjbhvkegt[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Hero:hid_commando_myth02_sr_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 29,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Epic Schematic for 1000 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/6633ab8087f2a2e80bdf7a90d06351e7a03b82790cc2e286f4b6851020532ed4",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 1000,
+              "dynamicRegularPrice": 1000,
+              "finalPrice": 1000,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1000
+            }
+          ],
+          "meta": {
+            "open_cardpacks": "true"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "open_cardpacks",
+              "value": "true"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "CardPack:cardpack_schematic_vr",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 9,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Copper Dirge Song for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/a4261136772b6cf8ed774286a7e1b9a70c48748c066f5fd9f92d6f3ffec4fa2d",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 1680,
+              "dynamicRegularPrice": 1680,
+              "finalPrice": 1680,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1680
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "4isauu637jr5fpgmk05ouou8m2[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "4isauu637jr5fpgmk05ouou8m2[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_pistol_singleburst_blackmetal_sr_ore_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 23,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Copper Grave Digger   for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/9293a2edde97f7dde84803c9c38b3aa34c500edf5e6d3c85902b1458459ac047",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 1680,
+              "dynamicRegularPrice": 1680,
+              "finalPrice": 1680,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1680
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "0pn6ft0pstcfg6q7rrqq3g37gr[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "0pn6ft0pstcfg6q7rrqq3g37gr[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_assault_auto_halloween_sr_ore_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 26,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Copper Ghost Pistol for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/9338a4d7b6f7ecd7fac8af6886b632930ff06585a53c61cc948f20988c89df61",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 1680,
+              "dynamicRegularPrice": 1680,
+              "finalPrice": 1680,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1680
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "3i34ik25vvbnsfft1811k2srqe[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "3i34ik25vvbnsfft1811k2srqe[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_pistol_halloween_handcannon_sr_ore_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 27,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Copper Husk Grinder for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/fd11007f66ba967aaa52ae91583956ed5832f9c69ef2a16f67a51995b37ff66e",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 1680,
+              "dynamicRegularPrice": 1680,
+              "finalPrice": 1680,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1680
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "7892vqq3paf26jne9ronbtkiie[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "7892vqq3paf26jne9ronbtkiie[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_edged_axe_blackmetal_sr_ore_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 24,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Copper Dissector for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/c5055b79e16dfb95d6cec4390bb25e9a81b1f3e5694b68d90a495eefaa2eba0b",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 1680,
+              "dynamicRegularPrice": 1680,
+              "finalPrice": 1680,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1680
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "14na9k5ou3pqhkn1e0q1qoubpv[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "14na9k5ou3pqhkn1e0q1qoubpv[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_piercing_spear_military_sr_ore_t01",
+              "quantity": 1,
+              "attributes": {
+                "Alteration": {
+                  "LootTierGroup": "AlterationTG.Melee.SR",
+                  "Tier": 0
+                }
+              }
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 15,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Plague Doctor Igor for 2800 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/8f22f5b37116fd357b6192af46714995ff7d12ea6157980d2d075453c0426492",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 2800,
+              "dynamicRegularPrice": 2800,
+              "finalPrice": 2800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 2800
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "6jefhc837ll8dm0au4s6gldmoj[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "6jefhc837ll8dm0au4s6gldmoj[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Hero:hid_ninja_018_sr_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 21,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Copper Black Blade for 1680 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/f9e24b8d4b7ab325a4487729d9cf969c750f859a95c7a690de20f79b8df82822",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 1680,
+              "dynamicRegularPrice": 1680,
+              "finalPrice": 1680,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1680
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "33qfugumep6vrdepo388m7dddc[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "33qfugumep6vrdepo388m7dddc[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Schematic:sid_edged_sword_blackmetal_sr_ore_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 22,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Dire for 3200 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/a684ba4cbf6b3b0b24b6d3adb2f87537f9b1605fa629a4f6d4fe1faa14442103",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 3200,
+              "dynamicRegularPrice": 3200,
+              "finalPrice": 3200,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 3200
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "2obiq4q1nhoil6nssn6d373nnd[0]0",
+            "EventLimit": "1"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "2obiq4q1nhoil6nssn6d373nnd[0]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "1"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Hero:hid_ninja_019_sr_t01",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 28,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Armory Slot for 25 GameItem : AccountResource:eventcurrency_scaling",
+          "offerId": "v2:/83c2c7dd1240222394ed9c7415fbce183d8504842eebc30039ce96c929d365e6",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [],
+          "prices": [
+            {
+              "currencyType": "GameItem",
+              "currencySubType": "AccountResource:eventcurrency_scaling",
+              "regularPrice": 25,
+              "dynamicRegularPrice": 25,
+              "finalPrice": 25,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 25
+            }
+          ],
+          "meta": {
+            "PurchaseLimitingEventId": "14na9k5ou3pqhkn1e0q1qoubpv[1]0",
+            "EventLimit": "100"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [],
+          "offerType": "StaticPrice",
+          "refundable": false,
+          "metaInfo": [
+            {
+              "key": "PurchaseLimitingEventId",
+              "value": "14na9k5ou3pqhkn1e0q1qoubpv[1]0"
+            },
+            {
+              "key": "EventLimit",
+              "value": "100"
+            }
+          ],
+          "itemGrants": [
+            {
+              "templateId": "Token:accountinventorybonus",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": 19,
+          "catalogGroupPriority": 0
+        }
+      ]
+    },
+    {
+      "name": "BRSpecialFeatured",
+      "catalogEntries": [
+        {
+          "devName": "[VIRTUAL]1 x Spirit Sniper for 800 MtxCurrency",
+          "offerId": "v2:/b4c520c69fe187c6b8c72427553cac1e04cb781c2f730e2548c47d18f3772cb6",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_914_F_York_E.DAv2_CID_914_F_York_E",
+            "SectionId": "Ghostbusters",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "12",
+            "EncryptionKey": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_914_Athena_Commando_F_York_E"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_914_athena_commando_f_york_e",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_914_F_York_E.DAv2_CID_914_F_York_E"
+            },
+            {
+              "key": "SectionId",
+              "value": "Ghostbusters"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "12"
+            },
+            {
+              "key": "EncryptionKey",
+              "value": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_914_Athena_Commando_F_York_E"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_914_Athena_Commando_F_York_E.DA_Featured_CID_914_Athena_Commando_F_York_E",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_914_athena_commando_f_york_e",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -6,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Party Trooper for 1200 MtxCurrency",
+          "offerId": "v2:/c1dba10c0fbffef468e4bf3de64c3586107089f976f6719657d67c541d9ae167",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 5"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 1200,
+              "dynamicRegularPrice": 1200,
+              "finalPrice": 1200,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 1200
+            }
+          ],
+          "meta": {
+            "offertag": "unlockjbalvinstyleattenddate",
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_920_M_PartyTrooper.DAv2_CID_920_M_PartyTrooper",
+            "SectionId": "SpookyOffers",
+            "TileSize": "Normal",
+            "AnalyticOfferGroupId": "15"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_920_athena_commando_m_partytrooper",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "offertag",
+              "value": "unlockjbalvinstyleattenddate"
+            },
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_920_M_PartyTrooper.DAv2_CID_920_M_PartyTrooper"
+            },
+            {
+              "key": "SectionId",
+              "value": "SpookyOffers"
+            },
+            {
+              "key": "TileSize",
+              "value": "Normal"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "15"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_920_Athena_Commando_M_PartyTrooper.DA_Featured_CID_920_Athena_Commando_M_PartyTrooper",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_920_athena_commando_m_partytrooper",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -1,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Containment Specialist for 800 MtxCurrency",
+          "offerId": "v2:/d20ecec24ce52299eb7df611f561d0a36586e1176437bcc72903f11683c1f613",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 3"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_906_M_York_B.DAv2_CID_906_M_York_B",
+            "SectionId": "Ghostbusters",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "13",
+            "EncryptionKey": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_906_Athena_Commando_M_York_B"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_906_athena_commando_m_york_b",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_906_M_York_B.DAv2_CID_906_M_York_B"
+            },
+            {
+              "key": "SectionId",
+              "value": "Ghostbusters"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "13"
+            },
+            {
+              "key": "EncryptionKey",
+              "value": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_906_Athena_Commando_M_York_B"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_906_Athena_Commando_M_York_B.DA_Featured_CID_906_Athena_Commando_M_York_B",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_906_athena_commando_m_york_b",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -9,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Snuggs Shine for 500 MtxCurrency",
+          "offerId": "v2:/006e9a8d2459f23345ba9e57ba2bbf6ed15c7d390858d0ead479b2f5850ebd16",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 8"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 500,
+              "dynamicRegularPrice": 500,
+              "finalPrice": 500,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 500
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_Wrap_157_CuddleTeamDark.DAv2_Wrap_157_CuddleTeamDark",
+            "SectionId": "SpookyOffers",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "18",
+            "BannerOverride": "Animated"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaItemWrap:wrap_157_cuddleteamdark",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_Wrap_157_CuddleTeamDark.DAv2_Wrap_157_CuddleTeamDark"
+            },
+            {
+              "key": "SectionId",
+              "value": "SpookyOffers"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "18"
+            },
+            {
+              "key": "BannerOverride",
+              "value": "Animated"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_Wrap_157_CuddleTeamDark.DA_Featured_Wrap_157_CuddleTeamDark",
+          "itemGrants": [
+            {
+              "templateId": "AthenaItemWrap:wrap_157_cuddleteamdark",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -9,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Phantom Commando for 800 MtxCurrency",
+          "offerId": "v2:/8a461dabeb412369a2cb748738c1e4418372d1d622dab1412c042b270375da3f",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_912_F_York_C.DAv2_CID_912_F_York_C",
+            "SectionId": "Ghostbusters",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "12",
+            "EncryptionKey": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_912_Athena_Commando_F_York_C"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_912_athena_commando_f_york_c",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_912_F_York_C.DAv2_CID_912_F_York_C"
+            },
+            {
+              "key": "SectionId",
+              "value": "Ghostbusters"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "12"
+            },
+            {
+              "key": "EncryptionKey",
+              "value": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_912_Athena_Commando_F_York_C"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_912_Athena_Commando_F_York_C.DA_Featured_CID_912_Athena_Commando_F_York_C",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_912_athena_commando_f_york_c",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -4,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Paranormal Guide for 800 MtxCurrency",
+          "offerId": "v2:/d18a1cd359e6effd94d13d9fc82c19a96d3f1028ed536add645b5c54a8865899",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 3"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_909_M_York_E.DAv2_CID_909_M_York_E",
+            "SectionId": "Ghostbusters",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "13",
+            "EncryptionKey": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_909_Athena_Commando_M_York_E"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_909_athena_commando_m_york_e",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_909_M_York_E.DAv2_CID_909_M_York_E"
+            },
+            {
+              "key": "SectionId",
+              "value": "Ghostbusters"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "13"
+            },
+            {
+              "key": "EncryptionKey",
+              "value": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_909_Athena_Commando_M_York_E"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_909_Athena_Commando_M_York_E.DA_Featured_CID_909_Athena_Commando_M_York_E",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_909_athena_commando_m_york_e",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -8,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Aura Analyzer for 800 MtxCurrency",
+          "offerId": "v2:/2e504d12677b750904b0ce11eedfb48d3d65d707215c5022c040bb9e8c782fe8",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 2"
+          ],
+          "prices": [
+            {
+              "currencyType": "MtxCurrency",
+              "currencySubType": "",
+              "regularPrice": 800,
+              "dynamicRegularPrice": 800,
+              "finalPrice": 800,
+              "saleExpiration": "9999-12-31T23:59:59.999Z",
+              "basePrice": 800
+            }
+          ],
+          "meta": {
+            "NewDisplayAssetPath": "/Game/Catalog/NewDisplayAssets/DAv2_CID_910_F_York_A.DAv2_CID_910_F_York_A",
+            "SectionId": "Ghostbusters",
+            "TileSize": "Small",
+            "AnalyticOfferGroupId": "12",
+            "EncryptionKey": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_910_Athena_Commando_F_York"
+          },
+          "matchFilter": "",
+          "filterWeight": 0,
+          "appStoreId": [],
+          "requirements": [
+            {
+              "requirementType": "DenyOnItemOwnership",
+              "requiredId": "AthenaCharacter:cid_910_athena_commando_f_york",
+              "minQuantity": 1
+            }
+          ],
+          "offerType": "StaticPrice",
+          "giftInfo": {
+            "bIsEnabled": true,
+            "forcedGiftBoxTemplateId": "",
+            "purchaseRequirements": [],
+            "giftRecordIds": []
+          },
+          "refundable": true,
+          "metaInfo": [
+            {
+              "key": "NewDisplayAssetPath",
+              "value": "/Game/Catalog/NewDisplayAssets/DAv2_CID_910_F_York_A.DAv2_CID_910_F_York_A"
+            },
+            {
+              "key": "SectionId",
+              "value": "Ghostbusters"
+            },
+            {
+              "key": "TileSize",
+              "value": "Small"
+            },
+            {
+              "key": "AnalyticOfferGroupId",
+              "value": "12"
+            },
+            {
+              "key": "EncryptionKey",
+              "value": "828B24CF7786DF74D8511CA89DEED8CF:nCahv7mQhidmYXSmKif6z7d6bQ60mdPQ7SrdZ7a3GaE=:CID_910_Athena_Commando_F_York"
+            }
+          ],
+          "displayAssetPath": "/Game/Catalog/DisplayAssets/DA_Featured_CID_910_Athena_Commando_F_York.DA_Featured_CID_910_Athena_Commando_F_York",
+          "itemGrants": [
+            {
+              "templateId": "AthenaCharacter:cid_910_athena_commando_f_york",
+              "quantity": 1
+            }
+          ],
+          "additionalGrants": [],
+          "sortPriority": -3,
+          "catalogGroupPriority": 0
+        },
+        {
+          "devName": "[VIRTUAL]1 x Ghost Trap, 1 x Proton Pack, 1 x Proton Pickaxe, 1 x Ecto-Glider for -1 MtxCurrency",
+          "offerId": "v2:/0fb6fa1a46ead33c83c31a5f978017a56bea864916616896a93f9319c5b405e5",
+          "fulfillmentIds": [],
+          "dailyLimit": -1,
+          "weeklyLimit": -1,
+          "monthlyLimit": -1,
+          "categories": [
+            "Panel 4"
+          ],
+          "prices": [],
+          "dynamicBundleInfo": {
+            "discountedBasePrice": -1000,
+            "regularBasePrice": 0,
+            "floorPrice": 200,
+            "currencyType": "MtxCurrency",
+            "currencySubType": "",
+            "displayType": "AmountOff",
+            "bundleItems": [
+              {
+                "bCanOwnMultiple": false,
+                "regularPrice": 400,
+                "discountedPrice": 400,
+                "alreadyOwnedPriceReduction": 400,
+                "item": {
+                  "templateId": "AthenaBackpack:bid_634_york_female",
+                  "quantity": 1
+                }
+              },
+              {
+                "bCanOwnMultiple": false,
+                "regularPrice": 400,
+                "discountedPrice": 400,
+                "alreadyOwnedPriceReduction": 400,
+                "item": {
+                  "templateId": "AthenaBackpack:bid_635_york_male",
+                  "quantity": 1
+                }
+              },
+              {
+                "bCanOwnMultiple": false,
+                "regularPrice": 800,
+                "discountedPrice": 800,
+                "alreadyOwnedPriceReduction": 800,
+                "item": {
+                  "templateId": "AthenaPickaxe:pickaxe_id_491_yorkmale",
+                  "quantity": 1
+                }
+              },
+              {
+                "bCanOwnMultiple": false,
+                "regularPrice": 1200,
+                "discountedPrice": 1200,
+                "alreadyOwnedPriceReduction": 1200,
+                "item": {
+                  "templateId": "AthenaGlider:glider_id_248_york",
+                  "quantity": 1
+                }
+              }
+            ]
+          }
